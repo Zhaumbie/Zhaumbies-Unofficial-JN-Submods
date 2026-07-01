@@ -13,11 +13,11 @@ This is the public compilation of all my unofficial submods (and their repos) fo
 ## Added Features
 - **[Ichi](https://github.com/Zhaumbie/Ichi-for-Just-Natsuki):** UNO-inspired card minigame with multiple game modes, competitive banter galore, and strong reactive memory
 - **[Music Playlists](https://github.com/Zhaumbie/Music-Playlists-for-Just-Natsuki):** because looping ONE song is ***so*** 2017
+- **[Modern Activity Detection](https://github.com/Zhaumbie/Modern-Activity-Detection-for-Just-Natsuki/):** modernizes and widely upgrades Natsuki's recognized apps/programs/websites, including fixing some vanilla typos and errors—and re-enables the entire feature for macOS (finally!)
 
 ## Utilities and Bug Fixes
 - **[Fix macOS Log](https://github.com/Zhaumbie/Fix-Broken-Log-macOS-for-Just-Natsuki):** no longer must we macOS users fly totally blind on the affinity system
 - **Fix Music Notifications (In Progress):** repairing busted characters in custom music tracks, like hyphens! *god those drove me crazy*
-- **[Modern Activity Detection](https://github.com/Zhaumbie/Modern-Activity-Detection-for-Just-Natsuki/):** modernizes and widely upgrades Natsuki's recognized apps/programs/websites, including fixing some vanilla typos and errors—and re-enables the entire feature for macOS (finally!)
 - **[Unofficial JN Patch](https://github.com/Zhaumbie/Just-Natsuki-Unofficial-Patch/):** bug fix patch repairing Issues raised on the official GitHub while the devs are MIA
 
 ___
