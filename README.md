@@ -19,10 +19,11 @@ This is the public compilation of all my unofficial submods (and their repos) fo
 - **[Fix macOS Log](https://github.com/Zhaumbie/Fix-Broken-Log-macOS-for-Just-Natsuki):** no longer must we macOS users fly totally blind on the affinity system
 - **Fix Music Notifications (In Progress):** repairing busted characters in custom music tracks, like hyphens! *god those drove me crazy*
 - **[Unofficial JN Patch](https://github.com/Zhaumbie/Just-Natsuki-Unofficial-Patch/):** bug fix patch repairing Issues raised on the official GitHub while the devs are MIA
-
+- **[Bonus: Expression Previewer (for submodders)](https://zhaumbie.github.io/Expression-Previewer-for-Just-Natsuki/):** added shuffle functionality to the official JN Expression Previewer
 ___
 ## Latest Updates
 
+- 12/07/2026: Expression Previewer
 - 30/06/2026: Unofficial JN Patch v1
 - 24/06/2026: Fix macOS Log v1
 - 23/06/2026: Modern Activity Detection v1
