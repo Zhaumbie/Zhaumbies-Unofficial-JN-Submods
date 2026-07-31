@@ -23,6 +23,8 @@ This is the public compilation of all my unofficial submods (and their repos) fo
 ___
 ## Latest Updates
 
+- 31/07/2026: Ichi v1.3 – Even Better Banter
+- 30/07/2026: Post-Game Content v0.8 – pre-release
 - 12/07/2026: Expression Previewer
 - 30/06/2026: Unofficial JN Patch v1
 - 24/06/2026: Fix macOS Log v1
