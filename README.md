@@ -12,6 +12,7 @@ This is the public compilation of all my unofficial submods (and their repos) fo
 
 ## Added Features
 - **[Ichi](https://github.com/Zhaumbie/Ichi-for-Just-Natsuki):** UNO-inspired card minigame with multiple game modes, competitive banter galore, and strong reactive memory
+- **[JNiversary (Custom Holiday)](https://github.com/Zhaumbie/JNiversary-for-Just-Natsuki):** A new holiday celebrating the day you met Natsuki
 - **[Modern Activity Detection](https://github.com/Zhaumbie/Modern-Activity-Detection-for-Just-Natsuki/):** modernizes and widely upgrades Natsuki's recognized apps/programs/websites, including fixing some vanilla typos and errors—and re-enables the entire feature for macOS (finally!)
 - **[Music Playlists](https://github.com/Zhaumbie/Music-Playlists-for-Just-Natsuki):** because looping ONE song is ***so*** 2017
 
@@ -23,6 +24,7 @@ This is the public compilation of all my unofficial submods (and their repos) fo
 ___
 ## Latest Updates
 
+- 10/11/2026: JNiversary v1
 - 31/07/2026: Ichi v1.3 – Even Better Banter
 - 30/07/2026: Post-Game Content v0.8 – pre-release
 - 12/07/2026: Expression Previewer
