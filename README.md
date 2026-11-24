@@ -12,7 +12,6 @@ This is the public compilation of all my unofficial submods (and their repos) fo
 - **Unannounced:** a major dialogue overhaul system in development since January... stay tuned!
 
 ## Features, Added
-- **Custom Classrooms (In Progress):** gift your friend new classroom variations as in-game background skins!
 - **[Custom Holiday—JNiversary](https://github.com/Zhaumbie/JNiversary-for-Just-Natsuki):** A new heartfelt holiday event celebrating the day you met Natsuki (7–10 minutes)
 - **[Ichi](https://github.com/Zhaumbie/Ichi-for-Just-Natsuki):** UNO-inspired card minigame with multiple game modes and competitive, reactive banter galore
 
@@ -22,13 +21,14 @@ This is the public compilation of all my unofficial submods (and their repos) fo
 
 ## Utilities and Bug Fixes
 - **[Fix macOS Log](https://github.com/Zhaumbie/Fix-Broken-Log-macOS-for-Just-Natsuki):** no longer must we macOS users fly totally blind on the affinity system
-- **Fix Music Notifications (In Progress):** repairing busted characters in custom music tracks, like those damn hyphens!
+- **[Fix Special Characters](https://github.com/Zhaumbie/Fix-Special-Characters-for-Just-Natsuki):** repairing busted characters in custom music tracks, like those damn hyphens!
 - **[JN Unofficial Patch](https://github.com/Zhaumbie/Just-Natsuki-Unofficial-Patch/):** bug fix patch repairing Issues raised on the official GitHub while the devs are MIA
-- **Persistent Plus (BETA):** safeguarding persistent bloat from unused Ren'Py record book-keeping
+- **Persistent Plus (In Progress):** safeguarding persistent bloat from unused Ren'Py record book-keeping
 - **[Bonus: Expression Previewer (for submodders)](https://zhaumbie.github.io/Expression-Previewer-for-Just-Natsuki/):** adds shuffle functionality to the official JN Expression Previewer
 ___
 ## Latest Updates
 
+- 2026-11-24: Fix Special Characters v1
 - 2026-11-10: JNiversary v1
 - 2026-07-31: Ichi v1.3 – Even Better Banter
 - 2026-07-30: Post-Game Content v0.8 – pre-release
